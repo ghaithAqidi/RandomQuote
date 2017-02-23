@@ -1,0 +1,30 @@
+.mainContent{
+    background-color: red;
+    text-align: center;
+    max-width: 720px;
+    min-height: 250px;
+    font-size: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+
+
+body{
+    background-color: beige;
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+    border: solid;
+    position: absolute;
+    left: 40%;
+    right: auto;
+    min-width: 20%;
+    top: 70%;
+
+}
